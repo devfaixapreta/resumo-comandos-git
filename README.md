@@ -42,7 +42,8 @@ git push -u origin main
 
 ## remote
 * Para conectar o repositorio local com o GitHub
-``` $ git remote add origin link-do-repositorio
+```
+$ git remote add origin link-do-repositorio
 ```
 
 ### add
