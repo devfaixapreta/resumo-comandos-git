@@ -1,5 +1,5 @@
 # Resumo dos Comandos Git
-Um resumo dos principais comandos utilizados no Git para trabalharmos com repositorios no Github
+Um resumo dos principais comandos utilizados no Git para trabalharmos com repositórios no Github
 
 ### Resumo - Criando um novo repositório
 ```
@@ -43,7 +43,7 @@ $ git push origin main
 # Comandos Git
 
 ## remote
-* Para conectar o repositorio local com o GitHub
+* Para conectar o repositório local com o GitHub
 ```
 $ git remote add origin link-do-repositorio
 ```
@@ -61,13 +61,13 @@ $ git status
 ```
 
 ### commit
-* Confirma o arqivo no repositorio local
+* Confirma o arqivo no repositório local
 ```
 $ git commit -m "Confirma a alteração aqui"
 ```
 
 ### push
-* Envia as alterações do repositorio local para o GitHub.com
+* Envia as alterações do repositório local para o GitHub.com
 ```
 $ git push -u origin sua-branch
 ``` 
