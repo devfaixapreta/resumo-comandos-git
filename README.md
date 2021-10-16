@@ -118,6 +118,10 @@ $ git merge nome-branch
 ```
 $ git clone link-repositorio-github
 ```
+* Baixar o conteúdo de um repositório dentro de um diretório
+```
+$ git clone link-repositorio-github .
+```
 
 ## pull
 * Atualizar o repositório local com as atualizações do github
