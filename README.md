@@ -7,7 +7,7 @@ $ git init
 $ git add README.md
 $ git commit -m "first commit"
 $ git branch -M main
-$ git remote add origin https://github.com/devfaixapreta/resumo-comandos-git.git
+$ git remote add origin endereço-do-repositorio.git
 $ git push -u origin main
 ```
 
