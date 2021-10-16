@@ -101,7 +101,7 @@ $ git mv velho_arquivo novo_arquivo
 ```
 
 ## merge
-* Unir as alterações de uma branch ao branh principal
+* Incorporar as alterações de uma branch ao branh principal
 ```
 $ git merge nome-branch
 ```
