@@ -42,53 +42,66 @@ git push -u origin main
 
 ## remote
 * Para conectar o repositorio local com o GitHub
-``$ git remote add origin link-do-repositorio``
+```$ git remote add origin link-do-repositorio
+```
 
 ### add
 * Prepare o arquivo para confirmação em seu repositório local
-``$ git add .``
+```$ git add .
+```
 
 ## status
 * Para verificar as mudanças preparadas para confirmação
-``$ git status``
+```$ git status
+```
 
 ### commit
 * Confirma o arqivo no repositorio local
-``$ git commit -m "Confirma a alteração aqui"
+```$ git commit -m "Confirma a alteração aqui"
+```
 
 ### push
 * Envia as alterações do repositorio local para o GitHub.com
-``$ git push -u origin sua-branch
+```$ git push -u origin sua-branch
+``` 
 
 ## branch
 * Criar uma branch
-``$ git branch nome-da-branch``
+```$ git branch nome-da-branch
+```
 
 * Criar uma branch e entrar nela
-``$ git checkout -b "sua-branch"``
+```$ git checkout -b "sua-branch"
+```
 
 ## checkout
 * Acessar uma branch
-``$ git checkout nome-branch``
+```$ git checkout nome-branch
+```
 
 * Alterar nome da branch principal `master` para `main` (recomendado)
-``$ git branch -M "main"``
+```$ git branch -M "main"
+```
 
 ## mv
 * Renomear arquivo
-``$ git mv velho_arquivo novo_arquivo``
+```$ git mv velho_arquivo novo_arquivo
+```
 
 ## merge
 * Unir as alterações de uma branch ao branh principal
-``$ git merge nome-branch``
+```$ git merge nome-branch
+```
 
 ## clone
 * Baixar um repositório para local
-``$ git clone link-repositorio-github``
+```$ git clone link-repositorio-github
+```
 
 ## pull
 * Atualizar o repositorio local com as atualizações do github
-``$ git pull``
+```$ git pull
+```
 
 
 
