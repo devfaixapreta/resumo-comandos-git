@@ -113,7 +113,7 @@ $ git clone link-repositorio-github
 ```
 
 ## pull
-* Atualizar o repositorio local com as atualizações do github
+* Atualizar o repositório local com as atualizações do github
 ```
 $ git pull
 ```
