@@ -3,18 +3,21 @@ Um resumo dos principais comandos utilizados no Git para trabalharmos com reposi
 
 ### Resumo - Criando um novo repositório
 ```
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/devfaixapreta/resumo-comandos-git.git
-git push -u origin main
+$ git init
+$ git add README.md
+$ git commit -m "first commit"
+$ git branch -M main
+$ git remote add origin https://github.com/devfaixapreta/resumo-comandos-git.git
+$ git push -u origin main
 ```
 
 ### Resumo - Enviando para o repositório
-```git remote add origin https://github.com/devfaixapreta/resumo-comandos-git.git
-git branch -M main
-git push -u origin main
+```
+$ git remote add origin https://github.com/devfaixapreta/resumo-comandos-git.git
+$ git branch -M main
+$ git add .
+$ git commit -m "first-commit"
+$ git push -u origin main
 ```
 
 ## Instalação do Git
