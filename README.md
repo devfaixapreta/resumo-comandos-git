@@ -1,7 +1,7 @@
 # Resumo dos Comandos Git
 Um resumo dos principais comandos utilizados no Git para trabalharmos com repositorios no Github
 
-## Criando um novo repositório
+### Resumo - Criando um novo repositório
 ```git init
 git add README.md
 git commit -m "first commit"
@@ -10,7 +10,7 @@ git remote add origin https://github.com/devfaixapreta/resumo-comandos-git.git
 git push -u origin main
 ```
 
-## Enviando para o repositório
+### Resumo - Enviando para o repositório
 ```git remote add origin https://github.com/devfaixapreta/resumo-comandos-git.git
 git branch -M main
 git push -u origin main
