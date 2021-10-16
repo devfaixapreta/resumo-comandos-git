@@ -38,7 +38,7 @@ git push -u origin main
 
 `[Contribution guidelines for this project](docs/CONTRIBUTING.md)`
 
-## Adicionar um arquivo
+# Comandos Git
 
 ## remote
 * Para conectar o repositorio local com o GitHub
