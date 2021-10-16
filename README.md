@@ -107,7 +107,7 @@ $ git merge nome-branch
 ```
 
 ## clone
-* Baixar um repositório para local
+* Baixar um repositório para a máquina local
 ```
 $ git clone link-repositorio-github
 ```
