@@ -77,7 +77,8 @@ $ git branch nome-da-branch
 ```
 
 * Criar uma branch e entrar nela
-```$ git checkout -b "sua-branch"
+```
+$ git checkout -b "sua-branch"
 ```
 
 ## checkout
