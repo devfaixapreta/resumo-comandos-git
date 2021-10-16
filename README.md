@@ -13,11 +13,9 @@ $ git push -u origin main
 
 ### Resumo - Enviando para o repositório
 ```
-$ git remote add origin https://github.com/devfaixapreta/resumo-comandos-git.git
-$ git branch -M main
 $ git add .
-$ git commit -m "first-commit"
-$ git push -u origin main
+$ git commit -m "new-commit"
+$ git push origin main
 ```
 
 ## Instalação do Git
