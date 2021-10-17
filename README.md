@@ -18,11 +18,20 @@ $ git branch -M main
 $ git push -u origin main
 ```
 
-### Resumo - Enviando arquivos para o repositório Github
+### Resumo - Criando Branch e enviando arquivo para o repositório Github
 ```
+$ git -b nome-branch
+$ git add nome-arquivo
+$ git commit -m "add-commit"
+$ git push origin nome-branch
+```
+
+### Resumo - Enviando todas alterações recentes para o repositório Github
+```
+$ git -b nome-branch
 $ git add .
-$ git commit -m "new-commit"
-$ git push origin main
+$ git commit -m "add-commit"
+$ git push origin nome-branch
 ```
 
 ## Instalação do Git
