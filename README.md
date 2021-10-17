@@ -47,6 +47,9 @@ $ git push origin main
 
 `[Contribution guidelines for this project](docs/CONTRIBUTING.md)`
 
+### Sintaxe báscia de formatação para arquivo .md
+* [Link docs Git](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 # Comandos Git
 
 ## remote
