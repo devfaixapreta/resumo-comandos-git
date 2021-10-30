@@ -61,6 +61,13 @@ $ git push origin nome-branch
 
 # Comandos Git
 
+## config
+* Definir email e nome nas configurações
+```
+$ git config user.email "seu_email"
+$ git config user.name "seu_nome"
+```
+
 ## remote
 * Para conectar o repositório local com o GitHub
 ```
