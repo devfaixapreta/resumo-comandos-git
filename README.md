@@ -73,6 +73,22 @@ $ git remote add origin link-do-repositorio
 $ git add .
 ```
 
+### reset
+* Desfazer algo que você adicionou
+```
+$ git reset <arquivo>
+```
+ou
+```
+$ git reset
+```
+
+### reset (commit)
+* Desfazer um commit
+```
+$ git reset ~HEAD
+```
+
 ## status
 * Para verificar as mudanças preparadas para confirmação
 ```
@@ -83,6 +99,12 @@ $ git status
 * Confirma o arqivo no repositório local
 ```
 $ git commit -m "Confirma a alteração aqui"
+```
+
+### commit --amend
+* Edita o último commit
+```
+$ git commit --amend -m "novo commit"
 ```
 
 ### push
@@ -102,6 +124,11 @@ $ git branch nome-da-branch
 $ git checkout -b "sua-branch"
 ```
 
+* Deletar branch
+```
+$ git branch -d <nome da branch>
+```
+
 ## checkout
 * Acessar uma branch
 ```
@@ -113,10 +140,23 @@ $ git checkout nome-branch
 $ git branch -M "main"
 ```
 
+
 ## mv
 * Renomear arquivo
 ```
 $ git mv velho_arquivo novo_arquivo
+```
+
+## rm
+* Remover arquivos de um repositório
+```
+$ git rm <arquivo>
+```
+
+## rm -r
+* Remover diretório de um repositório
+```
+$ git rm -r <diretório>
 ```
 
 ## merge
