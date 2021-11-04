@@ -80,6 +80,12 @@ $ git remote add origin link-do-repositorio
 $ git add .
 ```
 
+### rm --cached 
+* Retira o arquivo adicionado
+```
+$ git rm --cached <file>
+```
+
 ### reset
 * Desfazer algo que você adicionou
 ```
@@ -97,7 +103,7 @@ $ git reset ~HEAD
 ```
 
 ## status
-* Para verificar as mudanças preparadas para confirmação
+* Para verificar arquivos que possuem modificações
 ```
 $ git status
 ```
@@ -112,6 +118,34 @@ $ git commit -m "Confirma a alteração aqui"
 * Edita o último commit
 ```
 $ git commit --amend -m "novo commit"
+```
+
+### log
+* Mostra o log com commits
+```
+$ git log
+```
+ou
+```
+$ git log --oneline
+```
+
+## tag
+* Mostra tags existentes
+```
+$ git tag
+```
+
+## tag -a
+* Cria tag anotada
+```
+$ git tag -a <v1.0.0> -m "my tag v1.0.0"
+```
+
+## show
+* Ver dados da tag junto com o commit
+```
+$ git show <v1.0.0>
 ```
 
 ### push
@@ -146,7 +180,6 @@ $ git checkout nome-branch
 ```
 $ git branch -M "main"
 ```
-
 
 ## mv
 * Renomear arquivo
