@@ -170,7 +170,7 @@ $ git checkout -b "sua-branch"
 
 * Deletar branch
 ```
-$ git branch -d <nome da branch>
+$ git branch -D <nome da branch>
 ```
 
 ## checkout
