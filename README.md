@@ -50,6 +50,9 @@ $ git push origin nome-branch
 * Se você colocar seu arquivo README na raiz do repositório docs, ou .githubdiretório oculto , o GitHub reconhecerá e exibirá automaticamente seu README para os visitantes do repositório.
 * Se você adicionar um arquivo README à raiz de um repositório público com o mesmo nome de seu nome de usuário, esse README aparecerá automaticamente em sua página de perfil.
 
+## markdown = .md
+* [Link guia sintaxe markdown](https://www.markdownguide.org/basic-syntax/)
+
 ### Links relativos e caminhos de imagem em arquivos README
 * Você pode definir links relativos e caminhos de imagem em seus arquivos renderizados para ajudar os leitores a navegar para outros arquivos em seu repositório.
 * Por exemplo, se você tiver um arquivo README na raiz de seu repositório e tiver outro arquivo em docs / CONTRIBUTING.md , o link relativo para CONTRIBUTING.md em seu README pode ser assim:
