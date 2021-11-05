@@ -35,7 +35,7 @@ $ git push origin nome-branch
 ```
 
 ## Instalação do Git
-* [Link gownload Git](https://git-scm.com/downloads)
+* [Link download Git](https://git-scm.com/downloads)
 
 ## Criar repositório
 * Criar um diretório 
