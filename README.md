@@ -151,10 +151,16 @@ $ git tag -a <v1.0.0> -m "my tag v1.0.0"
 $ git show <v1.0.0>
 ```
 
-### push
+## push
 * Envia as alterações do repositório local para o GitHub.com
 ```
 $ git push -u origin sua-branch
+``` 
+
+## push --tags
+* Envia as tags do repositório local para o GitHub.com
+```
+$ git push --tags
 ``` 
 
 ## branch
