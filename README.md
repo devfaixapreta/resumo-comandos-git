@@ -229,9 +229,9 @@ $ git clone link-repositorio-github .
 ```
 $ git pull
 ```
+
 ## git flow init
 * Inicializa o Git Flow que automatiza o gerenciamento do versionamento.
-```
 
 ## Software Free GUI
 * [Link guia programa Sourcetree](https://www.sourcetreeapp.com)
