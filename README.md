@@ -209,7 +209,7 @@ $ git rm -r <diretório>
 ```
 
 ## merge
-* Incorporar as alterações de uma branch ao branh principal
+* Incorporar as alterações de uma branch ao branch principal
 ```
 $ git merge nome-branch
 ```
@@ -229,6 +229,11 @@ $ git clone link-repositorio-github .
 ```
 $ git pull
 ```
+## git flow init
+* Inicializa o Git Flow que automatiza o gerenciamento do versionamento.
+```
 
+## Software Free GUI
+* [Link guia programa Sourcetree](https://www.sourcetreeapp.com)
 
 
