@@ -237,6 +237,6 @@ $ git flow init
 ```
 
 ## Software Free GUI
-* [Link guia programa Sourcetree](https://www.sourcetreeapp.com)
+* [Link site programa Sourcetree](https://www.sourcetreeapp.com)
 
 
