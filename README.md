@@ -217,17 +217,23 @@ $ git merge nome-branch
 ## clone
 * Baixar um repositório para a máquina local
 ```
-$ git clone link-repositorio-github
+$ git clone <remote-repo-url>
 ```
 * Baixar o conteúdo de um repositório dentro de um diretório
 ```
-$ git clone link-repositorio-github .
+$ git clone <remote-repo-url> .
 ```
 
 ## pull
 * Atualizar o repositório local com as atualizações do github
 ```
 $ git pull
+```
+
+## -b
+* Baixar uma branch do repositório para a maquina local
+```
+$ git clone -b <branchname> <remote-repo-url>
 ```
 
 ## git flow
