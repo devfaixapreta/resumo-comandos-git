@@ -154,13 +154,23 @@ $ git show <v1.0.0>
 ## push
 * Envia as alterações do repositório local para o GitHub.com
 ```
-$ git push -u origin sua-branch
+$ git push origin main
+``` 
+
+* Renomear um branch adcionando o nome do novo branch
+```
+$ git push origin local-branch-name:remote-branch-name
 ``` 
 
 ## push --tags
 * Envia as tags do repositório local para o GitHub.com
 ```
 $ git push --tags
+``` 
+
+* Para enviar uma única tag do repositório local para o GitHub.com
+```
+$ git push tag-name
 ``` 
 
 ## branch
