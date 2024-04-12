@@ -164,6 +164,11 @@ $ git push --tags
 ``` 
 
 ## branch
+* Ver todas as branchs
+```
+$ git branch -a
+```
+
 * Criar uma branch
 ```
 $ git branch nome-da-branch
