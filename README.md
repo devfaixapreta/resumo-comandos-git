@@ -117,6 +117,12 @@ $ git status
 $ git commit -m "Confirma a alteração aqui"
 ```
 
+### commit -a -m
+* Adiciona o arquivo e Confirma o arqivo no repositório local
+```
+$ git commit -a -m "Add e Confirma a alteração aqui"
+```
+
 ### commit --amend
 * Edita o último commit
 ```
